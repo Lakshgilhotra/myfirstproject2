@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">unit converter</string>
+    <string-array name="fromunit">
+        <item>meter</item>
+        <item>celsius</item>
+        <item>kilogram</item>
+    </string-array>
+    <string-array name="Tounit">
+        <item>Centimeter</item>
+        <item>foot</item>
+        <item>Inch</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+        <item>Gram</item>
+        <item>Ounce</item>
+        <item>pound</item>
+    </string-array>
+</resources>
